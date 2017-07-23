@@ -35,7 +35,8 @@ int main()
     // display in insert order
     cout << "Post-order Traversal\n";
     bst.showPostOrder();
-
+    cout << endl;
+    
     return 0;
 }
 
